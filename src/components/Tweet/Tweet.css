@@ -1,0 +1,18 @@
+.tweet-div {
+  background-color: white;
+  width: 80%;
+  margin: 20px auto;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.tweet-img {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+}
+
+.tweet-username {
+  color: blue;
+  font-weight: bold;
+}
